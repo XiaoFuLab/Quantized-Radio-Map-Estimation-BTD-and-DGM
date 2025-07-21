@@ -4,7 +4,7 @@
 
 This repository contains the code to reproduce the experiments in the paper:  
 
-[**"Quantized Radio Map Estimation Using Tensor and Deep Generative Models"**](https://arxiv.org/pdf/2501.14116)
+[**"Quantized Radio Map Estimation Using Tensor and Deep Generative Models"**](https://ieeexplore.ieee.org/abstract/document/10335642)
 
 ## Citation
 
